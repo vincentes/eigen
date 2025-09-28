@@ -1,0 +1,74 @@
+[
+  {
+    "table_id": 1,
+    "headers": [
+      "Cantidad",
+      "Der",
+      "Ubicaci\u00f3n",
+      "Tipo",
+      "Marco",
+      "Contramarco",
+      "Hoja",
+      "Terminaciones",
+      "Herrajes",
+      "Notas"
+    ],
+    "items": [
+      {
+        "cantidad": "1",
+        "der": "1",
+        "ubicaci\u00f3n": "SSHH Acceso",
+        "tipo": "Puerta Batiente con Cerradura",
+        "marco": "Premarco Serie Gala 46",
+        "contramarco": "Serie Gala 46",
+        "hoja": "Bastidor Tablero de Aluminio",
+        "terminaciones": "Anolok Blanco",
+        "herrajes": "Bisagras Cierre, Cerradura Seguridad, Brazo Hidr\u00e1ulico",
+        "notas": "Las medidas se expresan en cent\u00edmetros. Se deber\u00e1 verificar en obra. Llevan tapajunta pintable."
+      },
+      {
+        "cantidad": "1",
+        "der": "1",
+        "ubicaci\u00f3n": "SSHH Vestuario",
+        "tipo": "Puerta Batiente con Cerradura",
+        "marco": "Premarco Serie Gala 46",
+        "contramarco": "Serie Gala 46",
+        "hoja": "Bastidor Tablero de Aluminio",
+        "terminaciones": "Anolok Blanco",
+        "herrajes": "Bisagras Cierre, Cerradura Seguridad, Brazo Hidr\u00e1ulico",
+        "notas": "Las medidas se expresan en cent\u00edmetros. Se deber\u00e1 verificar en obra. Llevan tapajunta pintable."
+      },
+      {
+        "cantidad": "1",
+        "der": "1",
+        "ubicaci\u00f3n": "SSHH Ducha",
+        "tipo": "Puerta Batiente con Cerradura",
+        "marco": "Premarco Serie Gala 46",
+        "contramarco": "Serie Gala 46",
+        "hoja": "Bastidor Tablero de Aluminio",
+        "terminaciones": "Anolok Blanco",
+        "herrajes": "Bisagras Cierre, Cerradura Seguridad, Brazo Hidr\u00e1ulico",
+        "notas": "Las medidas se expresan en cent\u00edmetros. Se deber\u00e1 verificar en obra. Llevan tapajunta pintable."
+      },
+      {
+        "cantidad": "1",
+        "der": "1",
+        "ubicaci\u00f3n": "Laboratorio N\u00ba 12",
+        "tipo": "Puerta Batiente Antip\u00e1nico con Cerradura",
+        "marco": "Premarco Serie Gala 46",
+        "contramarco": "Serie Gala 46",
+        "hoja": "Vidrio Flotado Transparente",
+        "terminaciones": "Anolok Blanco",
+        "herrajes": "Bisagras Cierre, Cerradura Seguridad, Brazo Hidr\u00e1ulico",
+        "notas": "Las medidas se expresan en cent\u00edmetros. Se deber\u00e1 verificar en obra. Llevan tapajunta pintable."
+      }
+    ],
+    "item_count": 4,
+    "metadata": {
+      "revision": "Rev 1",
+      "date": "05/2023",
+      "project": "Polo Tecnol\u00f3gico Pando"
+    },
+    "raw_text": []
+  }
+]

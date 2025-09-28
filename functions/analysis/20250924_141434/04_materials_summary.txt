@@ -1,0 +1,16 @@
+Total materials in database: 578
+BOM items processed: 4
+Successful matches: 4
+
+BOM Item 1: 1 1 SSHH Acceso Puerta Batiente con Cerradura Premarco Serie Gala 46 Serie Gala 46 Bastidor Tablero ...
+Top match: CERROJO LLAVE TIPO PALETA, PUERTA BATIENTE (similarity: 0.689)
+
+BOM Item 2: 1 1 SSHH Vestuario Puerta Batiente con Cerradura Premarco Serie Gala 46 Serie Gala 46 Bastidor Table...
+Top match: CERRADURA LLAVE TIPO PALETA USO MARITIMO, PUERTA BATIENTE (similarity: 0.652)
+
+BOM Item 3: 1 1 SSHH Ducha Puerta Batiente con Cerradura Premarco Serie Gala 46 Serie Gala 46 Bastidor Tablero d...
+Top match: CERRADURA LLAVE TIPO PALETA USO MARITIMO, PUERTA BATIENTE (similarity: 0.655)
+
+BOM Item 4: 1 1 Laboratorio Nº 12 Puerta Batiente Antipánico con Cerradura Premarco Serie Gala 46 Serie Gala 46 ...
+Top match: CERROJO LLAVE TIPO PALETA, PUERTA BATIENTE (similarity: 0.672)
+

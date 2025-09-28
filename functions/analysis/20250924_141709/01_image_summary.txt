@@ -1,0 +1,24 @@
+1. **Tipo de proyecto**: Arquitectónico.
+
+2. **Escala y complejidad del proyecto**: La escala es 1:25, lo que indica un nivel de detalle adecuado para la construcción de puertas. La complejidad es moderada, enfocándose en detalles de instalación y especificaciones de puertas.
+
+3. **Elementos principales visibles**: 
+   - Planos de puertas con dimensiones.
+   - Tablas con especificaciones técnicas.
+   - Imagen de referencia del herraje de cierre interior.
+
+4. **Tipo de construcción o sistema mostrado**: Instalación de puertas batientes y antipánico con cerradura en diferentes ubicaciones (acceso, vestuario, ducha, laboratorio).
+
+5. **Información de contexto relevante**: 
+   - Proyecto realizado por la Universidad de la República, Facultad de Química.
+   - Director del proyecto: Arq. Horacio Flora.
+   - Proyecto: Polo Tecnológico Pando.
+
+6. **Tablas BOM (Bill of Materials)**: 
+   - Materiales incluyen perfiles y premarcos de la serie Gala 46, contramarcos y hojas de aluminio, terminaciones anodizadas en blanco, bisagras, cerraduras de seguridad, y brazos hidráulicos.
+
+7. **Dimensiones o medidas**: 
+   - Sistema de unidades en centímetros.
+   - Dimensiones específicas de las puertas y sus componentes están detalladas en los planos.
+
+Este resumen proporciona una visión clara de los elementos y especificaciones del proyecto arquitectónico presentado en la imagen.
